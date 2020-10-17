@@ -1,0 +1,2 @@
+# futureconnect
+static site
